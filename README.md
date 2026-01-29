@@ -3,8 +3,9 @@
 
 ## 🔭 I'm currently working on
 
-## 📜 My blog
-* https://a-h4nu.github.io/blog
+## 📜 My websites
+* [Landing Page](https://a-h4nu.github.io)
+* [Blog](https://a-h4nu.github.io/blog)
 
 ## 🌱 My languages/tools are
 
