@@ -4,7 +4,7 @@
 ## 🔭 I'm currently working on
 
 ## 📜 My blog
-* https://a-h4nu.github.io/
+* https://a-h4nu.github.io/blog
 
 ## 🌱 My languages/tools are
 
