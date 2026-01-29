@@ -2,7 +2,6 @@
 <h3 align="center">A passionate CS student in S. Korea.</h3>
 
 ## 🔭 I'm currently working on
-* [KSAGrinder](https://github.com/A-H4NU/KSAGrinder)
 
 ## 📜 My blog
 * https://a-h4nu.github.io/
